@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrendaCheyech
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Machine Learning and AI
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👀 I’m interested in Data Analysis and Data Science
+- 🌱 I’m currently learning SQL, Python, Machine Learning and AI
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me brendacheyechy@gmail.com
 
 <!---
